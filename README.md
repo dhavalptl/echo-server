@@ -1,2 +1,2 @@
 # echo-server
-Echo server for kubernetes
+Echo server for kubernetes ingress
